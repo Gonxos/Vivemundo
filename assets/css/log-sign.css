@@ -1,0 +1,52 @@
+.background {
+	width: 100%;
+	filter: brightness(40%);
+
+}
+
+.enviar {
+	background-color: #3ac5d5;
+}
+
+.enviar:hover {
+	background-color: #008a9b;
+	color: #fff;
+	transition: ease-in-out 0.5s;
+}
+
+.form {
+	width: 70%;
+}
+
+.user {
+	background-color: #fff;
+	padding: .5em;
+}
+
+.pte-izda {
+	background-color: #3ac5d5;
+	width: 50%;
+}
+
+.pte-izda img {
+	width: 40%;
+	margin: 0 auto;
+}
+
+.pte-dcha {
+	background-color: #281952;
+	width: 50%;
+}
+
+.pte-dcha input {
+	width: 90% !important;
+	margin-bottom: 2em;
+}
+
+.pte-dcha * {
+	padding: 1em;
+}
+
+.vh-80 {
+	height: 80vh !important;
+}
